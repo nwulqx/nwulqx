@@ -4,6 +4,7 @@
 
 - 💶前端开发工程师
 - 🏆技能：React, TypeScript, c++, Java
+- LeetCode: https://leetcode.com/NWULQX/
 <!--
 **War3cdota/War3cdota** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
