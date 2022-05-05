@@ -1,10 +1,20 @@
-### Hi there, I'm Keven 👋
+### Hi there, I'm Keven 👋 ![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=nwulqx.nwulqx&color=00cf00)
 
-![Sohel Github stats](https://github-readme-stats.vercel.app/api?username=War3cdota)
+<p>
+<img width="350px" height="200px" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=nwulqx&count_private=true&show_icons=true&include_all_commits=true&line_height=31&theme=merko&hide_border=true"/>
+<img width="350px" height="200px" alt="Most Used Lang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nwulqx&layout=compact&theme=dark&hide_border=true&hide=HTML,CSS"/>
+</p>
 
-- 💶前端开发工程师
-- 🏆技能：React, TypeScript, c++, Java
+### 🛠 &nbsp;Tech Stack
+
+![React](https://img.shields.io/badge/-React-666666?style=flat&logo=react)
+![TypeScript](https://img.shields.io/badge/-TypeScript-666666?style=flat&logo=typescript)
+![JavaScript](https://img.shields.io/badge/-JavaScript-666666?style=flat&logo=javascript)
+![Webpack](https://img.shields.io/badge/-Webpack-666666?style=flat&logo=webpack)
+- 💶 前端开发工程师
+- 📫 nwulqx@foxmail.com
 - LeetCode: https://leetcode.com/NWULQX/
+
 <!--
 **War3cdota/War3cdota** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
