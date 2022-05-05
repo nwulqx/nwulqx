@@ -1,5 +1,9 @@
-### Hi there 👋
+### Hi there, I'm Keven 👋
 
+![Sohel Github stats](https://github-readme-stats.vercel.app/api?username=War3cdota)
+
+- 💶前端开发工程师
+- 🏆技能：React, TypeScript, c++, Java
 <!--
 **War3cdota/War3cdota** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
