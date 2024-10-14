@@ -12,6 +12,10 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-666666?style=flat&logo=javascript)
 ![Java](https://img.shields.io/badge/-Java-666666?style=flat&logo=spring)
 ![C++](https://img.shields.io/badge/-c++-666666?style=flat&logo=cplusplus)
+![Git](https://img.shields.io/badge/-Git-666666?style=flat&logo=git)
+![Linux](https://img.shields.io/badge/-Linux-666666?style=flat&logo=linux)
+![OpenAI](https://img.shields.io/badge/-OpenAI-666666?style=flat&logo=openai)
+
 
 I'm currently working on teaching AI how to sell Porsches by creating an intelligent assistant that truly understands sports cars. I'm diving deep into OpenAI models and prompt engineering to make AI even smarter—maybe even teaching robots to code! I'm open to collaborating on creative AI projects, open-source React component libraries, or anything that fuses code with creativity. If you have the secret formula for the perfect coffee-to-code ratio, I'm all ears and would love to hear your innovative ideas about AI and front-end development. Feel free to ask me about turning complex business requirements into seamless front-end solutions or getting AI to answer your toughest questions. You can reach me via GitHub messages or email.
 
