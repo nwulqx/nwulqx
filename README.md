@@ -1,7 +1,7 @@
 ### Hi there, I'm Qingxuan Luan 👋 
 
 <p>
-<img width="350px" height="200px" alt="GitHub Stats" src=""/>
+<img width="350px" height="200px" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=nwulqx&count_private=true&show_icons=true&include_all_commits=true&line_height=31&theme=merko&hide_border=true"/>
 <img width="350px" height="200px" alt="Most Used Lang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nwulqx&layout=compact&theme=dark&hide_border=true&hide=HTML,CSS"/>
 </p>
 
